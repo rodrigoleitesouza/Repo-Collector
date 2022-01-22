@@ -12,7 +12,7 @@ Defina em seu terminal o diretório do aplicativo e digite "yarn start"
 
 Digite o nome de usuário do Github seguido de uma barra ( / ) e, então, o nome do repositório desejado
 
-Ex.: facebook/react
+Ex.: rodrigoleitesouza/save-repo
 
 ------------------------------------------------------------------
 
