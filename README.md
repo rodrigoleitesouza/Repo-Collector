@@ -2,7 +2,7 @@
 
 ### `Objetivo`
 
-Armazenar e organizar repositórios públicos do Github
+App web para armazenar e organizar repositórios públicos do Github
 
 ### `Como iniciar?`
 
