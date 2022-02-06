@@ -59,7 +59,7 @@ export default class Main extends Component {
       <Container>
         <h1>
           <FaGithubAlt />
-          Save-Repo
+          Repo-Collector
         </h1>
 
         <Form onSubmit={this.handleSubmit}>
