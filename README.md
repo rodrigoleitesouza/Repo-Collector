@@ -6,7 +6,7 @@ App web para armazenar e organizar repositórios públicos do GitHub mostrando a
 
 ### `Como iniciar?`
 
-Defina em seu terminal o diretório do aplicativo e digite "yarn start".
+Defina em seu terminal o diretório do aplicativo e digite "*yarn start*".
 
 ### `Como usar?`
 
