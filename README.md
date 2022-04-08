@@ -16,7 +16,7 @@ Ex.: facebook/react
 
 ### `Demonstração`
 
-![GIF](https://media4.giphy.com/media/sz5Dq2P9TXMHK2pltq/giphy.gif)
+![GIF](https://i.imgur.com/3Pllrgz.gif)
 
 ------------------------------------------------------------------
 
